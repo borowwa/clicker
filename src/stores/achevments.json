@@ -1,0 +1,59 @@
+[
+    {
+      "id": "1",
+      "text": "10 clicks!",
+      "value": 10,
+      "type": "clicks",
+      "status": 0
+    },
+    {
+        "id": "2",
+        "text": "100 clicks!",
+        "value": 100,
+        "type": "clicks",
+        "status": 0
+      },
+      {
+        "id": "3",
+        "text": "200 clicks!",
+        "value": 200,
+        "type": "clicks",
+        "status": 0
+      },
+      {
+        "id": "4",
+        "text": "250 clicks!",
+        "value": 250,
+        "type": "clicks",
+        "status": 0
+      },
+    {
+      "id": "5",
+      "text": "2 per second",
+      "value": 2,
+      "type": "speed",
+      "status": 0
+    },
+    {
+        "id": "6",
+        "text": "4 per second",
+        "value": 4,
+        "type": "speed",
+        "status": 0
+      },
+      {
+        "id": "7",
+        "text": "6 per second",
+        "value": 6,
+        "type": "speed",
+        "status": 0
+      },
+      {
+        "id": "8",
+        "text": "8 per second",
+        "value": 8,
+        "type": "speed",
+        "status": 0
+      }
+  ]
+  
